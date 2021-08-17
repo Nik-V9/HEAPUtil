@@ -5,7 +5,7 @@
 [![QUT Centre for Robotics](https://img.shields.io/badge/collection-QUT%20Robotics-%23043d71?style=flat-square)](https://qcr.github.io/collection/vpr_overview/)
 [![arXiv](https://img.shields.io/badge/arXiv-2107.02440-b31b1b.svg)](https://arxiv.org/abs/2107.02440)
 [![IEEE Xplore RA-L 2021](https://img.shields.io/badge/-IEEE%20Xplore%20RA--L%202021-blue)](https://ieeexplore.ieee.org/abstract/document/9484750)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Nik-V9/HEAPUtil/HEAPUtil_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nik-V9/HEAPUtil/HEAPUtil_Demo.ipynb)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-hierarchical-dual-model-of-environment-and/visual-place-recognition-on-berlin-kudamm)](https://paperswithcode.com/sota/visual-place-recognition-on-berlin-kudamm?p=a-hierarchical-dual-model-of-environment-and)
 
@@ -50,7 +50,7 @@ For all the scripts, apart from SuperPoint Extraction, you may use the `--datase
 
 ## Quick Start
 
-Here's a [Colab Notebook](https://colab.research.google.com/github.com/Nik-V9/HEAPUtil/HEAPUtil_Demo.ipynb) to effortlessly run tests on the Berlin Dataset.
+Here's a [Colab Notebook](https://colab.research.google.com/github/Nik-V9/HEAPUtil/HEAPUtil_Demo.ipynb) to effortlessly run tests on the Berlin Dataset.
 
 ## Scripts
 
