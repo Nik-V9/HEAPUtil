@@ -44,7 +44,7 @@ We provide the Berlin Kudamm Dataset for Inference:
 
 * [Google Drive](https://drive.google.com/drive/folders/1s-pbcipbNoqQUjb5587lEung52NsP-C0?usp=sharing)
 
-For more details regarding the Berlin Kudamm dataset please refer to [this paper](https://ieeexplore.ieee.org/abstract/document/8202131).
+For more details regarding the Berlin Kudamm dataset please refer to [this paper](https://arxiv.org/abs/2002.03895).
 
 For all the scripts, apart from SuperPoint Extraction, you may use the `--dataset` flag to mention the dataset to use. By default, it is set to `'berlin'` and the default choices are `['oxford', 'nordland', 'berlin']`.
 
