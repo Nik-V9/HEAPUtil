@@ -6,6 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2107.02440-b31b1b.svg)](https://arxiv.org/abs/2107.02440)
 [![IEEE Xplore RA-L 2021](https://img.shields.io/badge/-IEEE%20Xplore%20RA--L%202021-blue)](https://ieeexplore.ieee.org/abstract/document/9484750)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nik-V9/HEAPUtil/blob/main/HEAPUtil_Demo.ipynb)
+[![YouTube](https://img.shields.io/youtube/views/CbAkVsk0KYE?style=social)](https://youtu.be/CbAkVsk0KYE)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-hierarchical-dual-model-of-environment-and/visual-place-recognition-on-berlin-kudamm)](https://paperswithcode.com/sota/visual-place-recognition-on-berlin-kudamm?p=a-hierarchical-dual-model-of-environment-and)
 
