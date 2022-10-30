@@ -43,7 +43,7 @@ For Data Loading, we use `.mat` files which contain information regarding `Refer
 
 We provide the Berlin Kudamm Dataset for Inference:
 
-* [Google Drive](https://drive.google.com/drive/folders/1s-pbcipbNoqQUjb5587lEung52NsP-C0?usp=sharing)
+* [MEGA](https://mega.nz/file/R8IFALoI#S3rlcO5E7tGTkFipUvcpIzIq25oryyDwJXbQuU2aRuM)
 
 For more details regarding the Berlin Kudamm dataset please refer to [this paper](https://arxiv.org/abs/2002.03895).
 
